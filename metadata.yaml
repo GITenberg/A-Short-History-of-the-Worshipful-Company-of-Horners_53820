@@ -1,5 +1,8 @@
 _repo: A-Short-History-of-the-Worshipful-Company-of-Horners_53820
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53820-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosedale, H. G. (Honyel Gough)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47555'
     url: http://www.gutenberg.org/2009/agents/47555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53820#A-Short-History-of-the-Worshipful-Company-of-Horners
 gutenberg_issued: '2016-12-28'
 gutenberg_type: Text
 identifiers:
